@@ -48,7 +48,7 @@ global.urlnya = "https://chat.whatsapp.com/ElWAM7irWS13d4R29HpbV1"
 
 //============= callButtons =============//
 global.dtc = 'RUN BOT'
-global.phn = 'Wa.me/62895327934887?text=jasarunbot'
+global.phn = 'Wa.me/6282154156241?text=jasarunbot'
 
 //============= Games ================//
 global.benar = '_*Benar✅*_'
@@ -58,12 +58,12 @@ global.dikit = "dikit lagi, semangat ya :')"
 global.multiplier = 100 // The higher, The harder levelup
 
 // Sticker WM
-global.packname = 'Àimò Shuǐ Botz'
-global.author = 'by KrizynOfc'
+global.packname = 'Xyzen Botz'
+global.author = 'by Amirr'
 
 //=========== Requirements ==========//  
         global.colong1 = 'Ciss 📸'
-        global.colong2 = 'ʙy KrizynOfc'
+        global.colong2 = 'ʙy Amir'
 global.img = pickRandom(waifu)
 global.fla = pickRandom(flaaa)
 
